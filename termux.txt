@@ -1,0 +1,5 @@
+pkg update
+pkg install clang cmake make git
+pkg install tigervnc x11-repo
+pkg install xfce4
+pkg install sfml
